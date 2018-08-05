@@ -10,7 +10,7 @@ This Code  it's about the image classification by neural networks by using the K
  - Create the ConvNet
  - Compile it 
  - Fit it to create the Model 
- - Make Predict of new input image 
+ - Make Prediction of new input image 
  
  
  ## This is the code
