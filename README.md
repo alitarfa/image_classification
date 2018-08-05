@@ -1,4 +1,4 @@
-# > Image Classification By Keras
+# Image Classification By Keras
 
 This Code  it's about the image classification by neural networks by using the Keras Library  
  
@@ -8,6 +8,7 @@ This Code  it's about the image classification by neural networks by using the K
      the other with cat images 
  - Prepare the test dataset and validation dataset
  - Create the ConvNet
- -Compile it 
- -Fit it to create the Model 
- -
+ - Compile it 
+ - Fit it to create the Model 
+ - Make Predict of new input image 
+ 
