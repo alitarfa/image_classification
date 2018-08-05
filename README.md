@@ -24,11 +24,11 @@ from keras.preprocessing.image import ImageDataGenerator
 from keras.layers import Conv2D,MaxPooling2D,ZeroPadding2D
 from keras import optimizers
  
+ ```
+
  ```python
 train_data_dir='your training dataset path'
 validation_data_dir='your validation database path'
- ```
-
  ```
  ```python
 train_data_set=ImageDataGenerator().flow_from_directory(train_data_dir,target_size=(150,150),classes=['dog','cat'],batch_size=16)
